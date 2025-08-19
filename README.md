@@ -42,6 +42,7 @@ Welcome to my GitHub profile! I am currently completed the **PG-DBDA (Post Gradu
 ### 🏨 Hotel Booking Demand Analysis
 - Conducted univariate, bivariate, and time-series analysis on guest data.
 - Extracted insights from market segments, ADR trends, lead time, and cancellations.
+  
 
 ---
 
