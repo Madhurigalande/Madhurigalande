@@ -42,39 +42,8 @@ Welcome to my GitHub profile! I am currently completed the **PG-DBDA (Post Gradu
 ### 🏨 Hotel Booking Demand Analysis
 - Conducted univariate, bivariate, and time-series analysis on guest data.
 - Extracted insights from market segments, ADR trends, lead time, and cancellations.
-  
 
----
-
-## 🧰 Tech Stack
-
-- **Languages**: Python, SQL, Java (Basics), Shell Scripting
-- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
-- **Tools**: Power BI, Tableau, Excel (Advanced), Git, Jupyter, VS Code
-- **Databases**: MySQL, MongoDB, Cassandra
-- **Platforms**: Google Colab, Kaggle, Linux, Windows
-
----
-
-## 📚 Education
-
-- **PG-DBDA** – Centre for Development of Advanced Computing (CDAC), Kharghar  
-  *( Feb 2025-Aug 2025)*  
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: madhurigalande8@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/madhuri-galande-0554a8218/
-- 🧠 Portfolio / Blog: Coming Soon!
-
----
-
-## 📝 Goals
-
-- ✅ Crack CCPP & module exams (BI, DBMS, Analytics)
-- 🔍 Intern or work in ML/AI or BI domain
-- 🎓 Learn Generative AI and Deep Learning
-- 🏆 Build 5+ end-to-end data science projects by course completion
-
+### 📈 Mutual Fund NAV Forecasting using Cloud & Data Pipeline
+- Built an end-to-end NAV forecasting pipeline using **Azure services** and **time-series ML models**.  
+- Automated data ingestion from APIs using **Python** and **Apache Airflow**.  
+- Developed ETL workflow
