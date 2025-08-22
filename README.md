@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I am currently completed the **PG-DBDA (Post Gradu
 ## 📚 Education
 
 - **PG-DBDA** – Centre for Development of Advanced Computing (CDAC), Kharghar  
-  *(Aug 2024 – Feb 2025)*  
+  *( Feb 2025-Aug 2025)*  
 
 ---
 
