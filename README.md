@@ -18,10 +18,11 @@ I enjoy solving real-world problems using data-driven approaches, predictive mod
 
 ## 📂 Notable Projects
 
-### 🏦 Bank Customer Churn Prediction
+### 🏦 Predictive analysis for Customer Churn
 - Built ML models to predict churn using Random Forest, Logistic Regression, Naive Bayes, and KNN.  
 - Performed EDA, handled class imbalance, and recommended business actions.  
-- Achieved ~79% accuracy with good precision-recall balance.  
+- Achieved ~79% accuracy with good precision-recall balance.
+- Technologies Used: Python, Machine Learning, Statistics, Data Visualization Tools
 
 ### 🏨 Hotel Booking Demand Analysis
 - Conducted univariate, bivariate, and time-series analysis on guest data.  
@@ -32,7 +33,7 @@ I enjoy solving real-world problems using data-driven approaches, predictive mod
 - Automated data ingestion from APIs using **Python** and **Apache Airflow**.  
 - Developed ETL workflows in **Azure Data Factory** and **Databricks**.  
 - Delivered predictions and insights through **Power BI dashboards**.  
-- **Technologies Used:** Python, Airflow, Azure (Blob, Data Factory, Databricks, SQL), ML models, Power BI  
+- Technologies Use-Python, Airflow, Azure (Blob, Data Factory, Databricks, SQL), ML models, Power BI  
 
 ---
 
