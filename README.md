@@ -44,7 +44,7 @@ I enjoy solving real-world problems using data-driven approaches, predictive mod
 - **Tools**: Power BI, Tableau, Excel, Git, Jupyter, VS Code  ,Eclipse
 - **Databases**: MySQL, MongoDB, Cassandra  
 - **Platforms**: Google Colab, Kaggle, Linux, Windows
-- ** Meachine learning ,Statistics , Basic AI
+- ** Meachine learning ,Statistics , Basic AI , NLP , Deep 
 
 ---
 
