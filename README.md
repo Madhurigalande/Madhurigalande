@@ -1,86 +1,73 @@
 # 👩‍💻 Madhuri Galande – Data Science & Machine Learning Enthusiast
 
-Welcome to my GitHub profile! 👋
-I recently completed the **PG-DBDA (Post Graduate Diploma in Big Data Analytics)** program from **C-DAC, Kharghar**, where I developed a strong foundation in **Machine Learning**, **Data Analytics**, and **Generative AI**.
-I’m passionate about leveraging data to uncover insights, build intelligent systems, and drive decision-making.
+Hi! I’m Madhuri — a Data Science & Machine Learning enthusiast who recently completed the **PG-DBDA (Big Data Analytics)** program at **C-DAC Kharghar**.  
+I enjoy building **analytics solutions**, exploring **Machine Learning**, and working with **data-driven systems**.
 
 ---
 
-## 🚀 Current Focus Areas
+## 🚀 Skills & Focus Areas
 
-* 🤖 **Machine Learning & AI** – Regression, Classification, Clustering, Model Evaluation, XGBoost, Random Forest, SVM
-* 📊 **Statistics & Probability** – Hypothesis Testing, Correlation, Covariance, Outlier Detection, Bayesian Analysis
-* 🛢️ **Data Management** – SQL, Excel, MongoDB, Data Cleaning & Transformation
-* 📈 **Business Intelligence** – Power BI, Tableau, Dashboards & Reporting
-* 🧠 **Deep Learning & Generative AI (Learning Phase)** – Neural Networks, RNN, Transformers, RAG, CNNs, Transfer Learning
+### 🔹 Machine Learning  
+Regression • Classification • Clustering • Random Forest • XGBoost • SVM • Model Evaluation
+
+### 🔹 Statistics  
+Hypothesis Testing • Correlation • Covariance • Outlier Detection • Bayesian Concepts
+
+### 🔹 Data & Database Management  
+SQL • MySQL • Excel • MongoDB
+
+### 🔹 BI & Visualization  
+Power BI • Tableau • Matplotlib • Seaborn
+
+### 🔹 AI & Deep Learning (Learning)  
+Neural Networks • CNN • RNN • Transformers • RAG • Transfer Learning
+
+### 🔹 Tools & Platforms  
+Python • Pandas • NumPy • Scikit-learn • Git • Jupyter • VS Code • Azure (ADF, Databricks) • Airflow
 
 ---
 
 ## 📂 Notable Projects
 
-### 🔐 2FA Authentication Application *(FastAPI Full-Stack Project)*
+### 🔐 **2FA Authentication App (FastAPI Full-Stack)**
+A secure Two-Factor Authentication system using **FastAPI**, **PyOTP**, and **JWT** with QR code integration.  
+**Tech:** FastAPI, SQLAlchemy, Vue.js, MySQL
 
-* Developed a **secure full-stack 2FA authentication app** using **FastAPI**, **PyOTP**, and **JWT**.
-* Implemented **user registration**, **login**, and **Two-Factor Authentication (TOTP)** compatible with Google Authenticator.
-* Integrated **QR code generation**, **CORS support**, and modular backend design using **SQLAlchemy** and **MySQL**.
-* **Tech Stack:** FastAPI, SQLAlchemy, PyOTP, JWT, MySQL, Vue.js
+### 🏦 **Customer Churn Prediction**
+Built ML models and performed EDA to predict customer churn with **~79% accuracy**.  
+**Tech:** Python, Scikit-learn, Seaborn
 
-### 🏦 Predictive Analysis for Customer Churn
+### 🏨 **Hotel Booking Demand Analysis**
+Analyzed booking patterns, cancellations, ADR trends, and customer segments.  
+**Tech:** Python, Pandas, Matplotlib
 
-* Designed ML models (Random Forest, Logistic Regression, Naive Bayes, KNN) to predict customer churn.
-* Conducted EDA, addressed class imbalance, and proposed actionable business insights.
-* Achieved ~79% accuracy with balanced precision and recall.
-* **Tech Stack:** Python, Scikit-learn, Matplotlib, Seaborn
-
-### 🏨 Hotel Booking Demand Analysis
-
-* Performed **univariate**, **bivariate**, and **time-series analysis** to identify patterns in booking and cancellations.
-* Derived insights from **market segments**, **lead time**, and **ADR trends** to optimize hotel operations.
-* **Tech Stack:** Python, Pandas, Seaborn, Matplotlib
-
-### 📈 Mutual Fund NAV Forecasting using Cloud & Data Pipeline
-
-* Built an **end-to-end cloud-based forecasting pipeline** using **Azure services**.
-* Automated **data ingestion** from APIs via **Apache Airflow** and built **ETL workflows** in **Azure Data Factory**.
-* Processed and modeled data in **Databricks**, visualized trends in **Power BI** dashboards.
-* **Tech Stack:** Python, Airflow, Azure (Blob, Data Factory, Databricks, SQL), Power BI
-
----
-
-## 🧰 Tech Stack
-
-* **Languages:** Python, SQL, Java (Core)
-* **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost
-* **Tools:** Power BI, Tableau, Excel, Git, Jupyter Notebook, VS Code, Eclipse
-* **Databases:** MySQL, MongoDB, Cassandra
-* **Platforms:** Google Colab, Kaggle, Linux, Windows
-* **Domains:** Machine Learning, Statistics, Basic AI, NLP, Deep Learning
+### 📈 **Mutual Fund NAV Forecasting – Azure Cloud Pipeline**
+End-to-end ETL + forecasting pipeline using Azure services and Airflow automation.  
+**Tech:** Azure ADF, Databricks, Airflow, Power BI
 
 ---
 
 ## 🎓 Education
-
-* **PG-DBDA (Post Graduate Diploma in Big Data Analytics)**
-  *Centre for Development of Advanced Computing (C-DAC), Kharghar*
-  *(Feb 2025 – Aug 2025)*
+**PG-DBDA – Post Graduate Diploma in Big Data Analytics**  
+*C-DAC, Kharghar (Feb 2025 – Aug 2025)*
 
 ---
 
-## 📝 Goals
-
-* 🎯 Crack **CCPP** & module exams (BI, DBMS, Analytics)
-* 💼 Secure an **internship or role** in the ML / AI / BI domain
-* 🧠 Advance skills in **Generative AI** and **Deep Learning**
-* 🏗️ Build **5+ end-to-end data science projects** before course completion
-
----
-
-## 📬 Let's Connect
-
-* 📧 Email: [madhurigalande8@gmail.com](mailto:madhurigalande8@gmail.com)
-* 💼 LinkedIn: [Madhuri Galande](https://www.linkedin.com/in/madhuri-galande-0554a8218/)
-* 🌐 Portfolio: [madhurianalytics8.netlify.app](https://madhurianalytics8.netlify.app/)
+## 🎯 Goals
+- Crack module exams (BI, DBMS, Analytics)  
+- Secure an internship/role in ML / AI / BI  
+- Build 5+ real-world data science projects  
+- Learn and implement Deep Learning & Generative AI  
 
 ---
 
-### 🌟 “Data tells a story — my goal is to make it meaningful.”
+## 📬 Connect With Me
+
+📧 **Email:** madhurigalande8@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/madhuri-galande-0554a8218/  
+🌐 **Portfolio:**  
+- https://madhurianalytics.netlify.app  
+
+---
+
+### 🌟 *“Data tells a story — my goal is to make it meaningful.”*
